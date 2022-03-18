@@ -7,7 +7,7 @@
     "@decidim/elections": "^0.26.0",
     "@decidim/webpacker": "^0.26.0",
     "@rails/webpacker": "^6.0.0-rc.6",
-    "node": "^16.9.1",
+    "js-yaml": "^4.1.0",
     "npm": "^7.21.1",
     "webpack": "^5.51.1",
     "webpack-cli": "^4.8.0"
