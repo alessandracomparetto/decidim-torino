@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-ruby RUBY_VERSION
+ruby RUBY_VERSION 
 
 gem "decidim", "0.26.0"
 # gem "decidim-conferences", "0.26.0"
