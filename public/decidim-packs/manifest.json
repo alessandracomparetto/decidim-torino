@@ -194,6 +194,13 @@
         ]
       }
     },
+    "decidim_initiatives": {
+      "assets": {
+        "js": [
+          "/decidim-packs/js/decidim_initiatives.js"
+        ]
+      }
+    },
     "decidim_admin": {
       "assets": {
         "js": [

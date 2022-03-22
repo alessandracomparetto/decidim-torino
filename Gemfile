@@ -9,7 +9,7 @@ gem "decidim", "0.26.0"
 gem "decidim-consultations", "0.26.0"
 gem "decidim-surveys", "0.26.0"
 # gem "decidim-elections", "0.26.0"
- gem "decidim-initiatives", "0.26.0"
+gem "decidim-initiatives", "0.26.0"
 # gem "decidim-templates", "0.26.0"
 gem 'decidim-proposals'
 
